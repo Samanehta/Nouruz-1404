@@ -1,0 +1,14 @@
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\bin\Debug\net8.0\سوال چهارم ترتیب اعداد.exe
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\bin\Debug\net8.0\سوال چهارم ترتیب اعداد.deps.json
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\bin\Debug\net8.0\سوال چهارم ترتیب اعداد.runtimeconfig.json
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\bin\Debug\net8.0\سوال چهارم ترتیب اعداد.dll
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\bin\Debug\net8.0\سوال چهارم ترتیب اعداد.pdb
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\سوال چهارم ترتیب اعداد.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\سوال چهارم ترتیب اعداد.AssemblyInfoInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\سوال چهارم ترتیب اعداد.AssemblyInfo.cs
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\سوال چهارم ترتیب اعداد.csproj.CoreCompileInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\سوال چهارم ترتیب اعداد.dll
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\refint\سوال چهارم ترتیب اعداد.dll
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\سوال چهارم ترتیب اعداد.pdb
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\سوال چهارم ترتیب اعداد.genruntimeconfig.cache
+C:\Users\SarayeTell\Desktop\project\سوال چهارم ترتیب اعداد\سوال چهارم ترتیب اعداد\obj\Debug\net8.0\ref\سوال چهارم ترتیب اعداد.dll

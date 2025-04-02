@@ -1,0 +1,14 @@
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\bin\Debug\net8.0\سوال دوم اختلاف سنی.exe
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\bin\Debug\net8.0\سوال دوم اختلاف سنی.deps.json
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\bin\Debug\net8.0\سوال دوم اختلاف سنی.runtimeconfig.json
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\bin\Debug\net8.0\سوال دوم اختلاف سنی.dll
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\bin\Debug\net8.0\سوال دوم اختلاف سنی.pdb
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\سوال دوم اختلاف سنی.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\سوال دوم اختلاف سنی.AssemblyInfoInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\سوال دوم اختلاف سنی.AssemblyInfo.cs
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\سوال دوم اختلاف سنی.csproj.CoreCompileInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\سوال دوم اختلاف سنی.dll
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\refint\سوال دوم اختلاف سنی.dll
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\سوال دوم اختلاف سنی.pdb
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\سوال دوم اختلاف سنی.genruntimeconfig.cache
+C:\Users\SarayeTell\Desktop\project\سوال دوم اختلاف سنی\سوال دوم اختلاف سنی\obj\Debug\net8.0\ref\سوال دوم اختلاف سنی.dll

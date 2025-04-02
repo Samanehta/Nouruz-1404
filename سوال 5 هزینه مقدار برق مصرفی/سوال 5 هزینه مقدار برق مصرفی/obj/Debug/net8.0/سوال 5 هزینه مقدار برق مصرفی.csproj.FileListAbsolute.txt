@@ -1,0 +1,14 @@
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\bin\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.exe
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\bin\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.deps.json
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\bin\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.runtimeconfig.json
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\bin\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.dll
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\bin\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.pdb
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.AssemblyInfoInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.AssemblyInfo.cs
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.csproj.CoreCompileInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.dll
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\refint\سوال 5 هزینه مقدار برق مصرفی.dll
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.pdb
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\سوال 5 هزینه مقدار برق مصرفی.genruntimeconfig.cache
+C:\Users\SarayeTell\Desktop\project\سوال 5 هزینه مقدار برق مصرفی\سوال 5 هزینه مقدار برق مصرفی\obj\Debug\net8.0\ref\سوال 5 هزینه مقدار برق مصرفی.dll
