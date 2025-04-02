@@ -1,0 +1,14 @@
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\bin\Debug\net8.0\سوال 7 دریافت عدد و عملیات.exe
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\bin\Debug\net8.0\سوال 7 دریافت عدد و عملیات.deps.json
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\bin\Debug\net8.0\سوال 7 دریافت عدد و عملیات.runtimeconfig.json
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\bin\Debug\net8.0\سوال 7 دریافت عدد و عملیات.dll
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\bin\Debug\net8.0\سوال 7 دریافت عدد و عملیات.pdb
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\سوال 7 دریافت عدد و عملیات.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\سوال 7 دریافت عدد و عملیات.AssemblyInfoInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\سوال 7 دریافت عدد و عملیات.AssemblyInfo.cs
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\سوال 7 دریافت عدد و عملیات.csproj.CoreCompileInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\سوال 7 دریافت عدد و عملیات.dll
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\refint\سوال 7 دریافت عدد و عملیات.dll
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\سوال 7 دریافت عدد و عملیات.pdb
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\سوال 7 دریافت عدد و عملیات.genruntimeconfig.cache
+C:\Users\SarayeTell\Desktop\project\سوال 7 دریافت عدد و عملیات\سوال 7 دریافت عدد و عملیات\obj\Debug\net8.0\ref\سوال 7 دریافت عدد و عملیات.dll

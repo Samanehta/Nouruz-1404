@@ -1,0 +1,14 @@
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\bin\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.exe
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\bin\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.deps.json
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\bin\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.runtimeconfig.json
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\bin\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.dll
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\bin\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.pdb
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.AssemblyInfoInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.AssemblyInfo.cs
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.csproj.CoreCompileInputs.cache
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.dll
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\refint\سوال 8 مضارب 5 بین 2 عدد.dll
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.pdb
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\سوال 8 مضارب 5 بین 2 عدد.genruntimeconfig.cache
+C:\Users\SarayeTell\Desktop\project\سوال 8 مضارب 5 بین 2 عدد\سوال 8 مضارب 5 بین 2 عدد\obj\Debug\net8.0\ref\سوال 8 مضارب 5 بین 2 عدد.dll
